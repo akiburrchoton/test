@@ -6,7 +6,7 @@
 ![](https://www.synopsys.com/glossary/what-is-cicd/_jcr_content/root/synopsyscontainer/column_1946395452/colRight/image_copy.coreimg.svg/1663683682045/cicd.svg)
 ###### *Figure: Continuous Integration/Continuous Delivery and Development(CI/CD)*
 
-### ***A few commonly used for CI/CD and why they are used***
+### ***A few commonly tools used for CI/CD and why they are used***
 
 - **Jenkins**: Jenkins is a veteran CI Tool with a long proven track record. It is open source and driven by community updates. Jenkins is primarily intended to an on-premise installation.
     - On-premise
